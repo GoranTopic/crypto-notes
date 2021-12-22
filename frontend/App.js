@@ -13,7 +13,7 @@ export default function App() {
 				<Provider store={store}>
 						<PersistGate loading={null} persistor={persistor}>
 								<View style={styles.container}>
-										<Text>Open up App.js to start working on your app!</Text>
+										<Text>if you can read this the App is working well</Text>
 										<StatusBar style="auto" />
 								</View>
 						</PersistGate>

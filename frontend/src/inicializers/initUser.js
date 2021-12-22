@@ -1,4 +1,4 @@
-export default initUser = {
+const initUser = {
 		// user data from memory,
 		// 		validate cookie with server
 		// get coockie from memory
@@ -10,3 +10,5 @@ export default initUser = {
 		cookie: null,
 }
 
+
+export default initUser;
